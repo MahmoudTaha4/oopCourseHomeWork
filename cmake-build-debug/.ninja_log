@@ -1,0 +1,21 @@
+# ninja log v6
+4	346	7468338842480097	build.ninja	ce413a2dc6779111
+10	829	7468333416370136	CMakeFiles/oopCourseHomeWork.dir/address_hw/main.cpp.obj	b3c3371e1e646067
+549	764	7468333268730593	CMakeFiles/oopCourseHomeWork.dir/building_hw/Elevator.cpp.obj	e56f998e488c6959
+41	547	7468333263644095	CMakeFiles/oopCourseHomeWork.dir/building_hw/Apartment.cpp.obj	b03e3dc917ea0742
+748	881	7468333270712465	CMakeFiles/oopCourseHomeWork.dir/building_hw/Room.cpp.obj	63e9da544b40b3fe
+35	772	7468333263585518	CMakeFiles/oopCourseHomeWork.dir/building_hw/Building.cpp.obj	3dd41afbde87ad58
+764	872	7468333270878429	CMakeFiles/oopCourseHomeWork.dir/building_hw/Bathroom.cpp.obj	2af265a2edcaf353
+772	1315	7468333270956531	CMakeFiles/oopCourseHomeWork.dir/invoice_hw/Invoice.cpp.obj	94d06025c877394c
+830	1041	7468333424573080	oopCourseHomeWork.exe	88307ef2981c3101
+11	665	7468338947211153	CMakeFiles/oopCourseHomeWork.dir/main.cpp.obj	6a6862d2f61bc9d2
+666	886	7468338953771835	oopCourseHomeWork.exe	6e8d1d1d0751325f
+12	645	7468339413853054	CMakeFiles/oopCourseHomeWork.dir/main.cpp.obj	6a6862d2f61bc9d2
+646	886	7468339420189197	oopCourseHomeWork.exe	6e8d1d1d0751325f
+11	644	7468339792224479	CMakeFiles/oopCourseHomeWork.dir/main.cpp.obj	6a6862d2f61bc9d2
+645	865	7468339798560625	oopCourseHomeWork.exe	6e8d1d1d0751325f
+19	582	7468343944412136	CMakeFiles/oopCourseHomeWork.dir/invoice_hw/Invoice.cpp.obj	94d06025c877394c
+11	694	7468343944334026	CMakeFiles/oopCourseHomeWork.dir/main.cpp.obj	6a6862d2f61bc9d2
+694	927	7468343951168081	oopCourseHomeWork.exe	6e8d1d1d0751325f
+12	578	7468345920561474	CMakeFiles/oopCourseHomeWork.dir/invoice_hw/Invoice.cpp.obj	94d06025c877394c
+579	817	7468345926233732	oopCourseHomeWork.exe	6e8d1d1d0751325f

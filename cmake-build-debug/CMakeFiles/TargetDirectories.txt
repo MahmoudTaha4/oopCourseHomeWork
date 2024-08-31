@@ -1,0 +1,3 @@
+C:/programming projects/oopCourseHomeWork/cmake-build-debug/CMakeFiles/oopCourseHomeWork.dir
+C:/programming projects/oopCourseHomeWork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/programming projects/oopCourseHomeWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
